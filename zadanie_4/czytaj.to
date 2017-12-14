@@ -1,0 +1,9 @@
+1. w celu wygenerowania plikow
+
+dajemy
+mkdir files <- podkatalog na pliki
+python zadanie_4.py generate files 
+
+2. w celu normalizacji plikow
+python zadanie_4.py normalize files
+
